@@ -3,4 +3,6 @@ To run this project follow these steps<br>
 2.install Xamp for database <br>
 3.create database name "atbs".<br>
 4.import atb.sql file in your database<br>
-5.end
+5.open netbins <br>
+6.run class named "airlineUser"<br>
+end
