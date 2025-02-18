@@ -1,4 +1,4 @@
-To run this project follow this steps<br>
+To run this project follow these steps<br>
 1.install java ,netbins in your machine<br>
 2.install Xamp for database <br>
 3.create database name "atbs".<br>
